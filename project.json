@@ -1,0 +1,16 @@
+{
+    "project_name": "Standard0001",
+    "origin": "The primary repo for Standard0001 goes here: i.e. http://www.mydomain.com",
+    "license": "What license Standard0001 uses goes here: i.e. https://opensource.org/licenses/MIT",
+    "display_name": "Standard0001",
+    "summary": "A short description of Standard0001.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "Standard0001"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de-sdk",
+    "external_subdirectories": []
+}
